@@ -280,7 +280,3 @@ This project is open source under the [MIT License](LICENSE).
 - [Sobel Operator — Wikipedia](https://en.wikipedia.org/wiki/Sobel_operator)
 
 ---
-
-<p align="center">
-  Made with ❤️ for high-performance computing
-</p>

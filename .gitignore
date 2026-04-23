@@ -1,0 +1,12 @@
+# Compiled C++ binaries
+parallel_multiply
+parallel_multiply.exe
+*.o
+*.obj
+*.out
+
+# Julia artifacts
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+Manifest.toml
